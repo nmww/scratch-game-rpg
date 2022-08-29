@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 #include<vector>
-//#include<bits/stdc++.h>
+// #include<bits/stdc++.h>
 using namespace std;
 
 int main(){
@@ -16,6 +16,7 @@ int main(){
     //     cout << i << endl;
     // } 
 
+// Loopback Audio  Devices   
     cout << "你好,c++语言\n\n";
     cout << "我是初学者\n";
     cout << "我like\n";
